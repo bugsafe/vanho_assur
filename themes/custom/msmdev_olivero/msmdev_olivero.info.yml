@@ -1,0 +1,5 @@
+name: msmdev_olivero
+type: theme
+description: 'Acustom theme based on olivro drupal9 theme'
+core_version_requirement: ^8 || ^9
+base theme: olivero
